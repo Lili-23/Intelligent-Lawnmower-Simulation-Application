@@ -1,0 +1,790 @@
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+simulate next
+No active mower
+Game over from single step!!!
+upload file: 
+simulate next
+Current turn 1
+m0: steer
+ok
+simulate next
+Current turn 1
+m1: steer
+ok
+simulate next
+Current turn 1
+m2: steer
+ok
+simulate next
+Current turn 1
+m3: steer
+ok
+simulate next
+Current turn 1
+m4: steer
+ok
+simulate next
+Current turn 2
+m0,lscan
+grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 2
+m1,lscan
+grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 2
+m2,lscan
+grass,grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 2
+m3,lscan
+grass,grass,grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 2
+m4,lscan
+grass,grass,grass,gopher_grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 3
+m0: steer
+ok
+simulate next
+Current turn 3
+m1: steer
+ok
+simulate next
+Current turn 3
+m2: steer
+ok
+simulate next
+Current turn 3
+m3: steer
+ok
+simulate next
+Current turn 3
+m4: steer
+ok
+simulate next
+Current turn 4
+m0,lscan
+grass,grass,fence
+ok
+simulate next
+Current turn 4
+m1,lscan
+grass,grass,grass,fence
+ok
+simulate next
+Current turn 4
+m2,lscan
+grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 4
+m3,lscan
+grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 4
+m4,lscan
+grass,grass,grass,gopher_grass,grass,grass,fence
+ok
+simulate next
+Current turn 5
+g0: move NORTHWEST,8 + 2->7 + 3
+g0: move NORTHWEST
+simulate next
+Current turn 5
+g1: move SOUTHEAST,4 + 6->5 + 5
+g1: move SOUTHEAST
+simulate next
+Current turn 6
+m0,cscan
+grass,mower,grass,grass,grass,grass,grass,grass
+ok
+simulate next
+Current turn 6
+m1,cscan
+grass,mower,grass,grass,grass,mower,grass,grass
+ok
+simulate next
+Current turn 6
+m2,cscan
+grass,mower,grass,gopher_grass,grass,mower,grass,gopher_grass
+ok
+simulate next
+Current turn 6
+m3,cscan
+grass,mower,grass,grass,grass,mower,grass,grass
+ok
+simulate next
+Current turn 6
+m4,cscan
+grass,grass,grass,grass,grass,mower,grass,grass
+ok
+simulate next
+Current turn 7
+m0,move
+ok
+simulate next
+Current turn 7
+m1,move
+ok
+simulate next
+Current turn 7
+m2,move
+ok
+simulate next
+Current turn 7
+m3,move
+ok
+simulate next
+Current turn 7
+m4,move
+ok
+simulate next
+Current turn 8
+m0: steer
+ok
+simulate next
+Current turn 8
+m1: steer
+ok
+simulate next
+Current turn 8
+m2: steer
+ok
+simulate next
+Current turn 8
+m3: steer
+ok
+simulate next
+Current turn 8
+m4: steer
+ok
+simulate next
+Current turn 9
+m0,move
+ok
+simulate next
+Current turn 9
+m1,move
+ok
+simulate next
+Current turn 9
+m2,move
+ok
+simulate next
+Current turn 9
+m3,move
+ok
+simulate next
+Current turn 9
+m4,move
+ok
+simulate next
+Current turn 10
+setCurrentState: ACTIVE -> CRASH
+g0: crack m:3
+simulate next
+Current turn 10
+setCurrentState: ACTIVE -> CRASH
+g1: crack m:2
+simulate next
+Current turn 11
+m0: steer
+ok
+simulate next
+Current turn 11
+m1: steer
+ok
+simulate next
+Current turn 11
+m4: steer
+ok
+simulate next
+Current turn 11
+m4,move
+ok
+simulate next
+Current turn 11
+m4: steer
+ok
+simulate next
+Current turn 12
+m0,move
+ok
+simulate next
+Current turn 12
+m1,move
+ok
+simulate next
+Current turn 12
+m4,move
+ok
+simulate next
+Current turn 12
+m4: steer
+ok
+simulate next
+Current turn 12
+m4,move
+ok
+simulate next
+Current turn 13
+m0: steer
+ok
+simulate next
+Current turn 13
+m1: steer
+ok
+simulate next
+Current turn 13
+m4,cscan
+grass,grass,grass,grass,empty,empty,empty,grass
+ok
+simulate next
+Current turn 13
+m4,move
+ok
+simulate next
+Current turn 13
+m4: steer
+ok
+simulate next
+Current turn 14
+m0,move
+ok
+simulate next
+Current turn 14
+m1,move
+ok
+simulate next
+Current turn 14
+m4,move
+ok
+simulate next
+Current turn 14
+m4,cscan
+empty,grass,grass,grass,grass,empty,empty,empty
+ok
+simulate next
+Current turn 14
+m4,move
+ok
+simulate next
+Current turn 15
+g0: move NORTHEAST,8 + 4->9 + 5
+g0: move NORTHEAST
+simulate next
+Current turn 15
+setCurrentState: ACTIVE -> CRASH
+g1: crack m:0
+simulate next
+Current turn 16
+m1,cscan
+empty,grass,grass,grass,grass,empty,empty,empty
+ok
+simulate next
+Current turn 16
+m1,move
+ok
+simulate next
+Current turn 16
+m4: steer
+ok
+simulate next
+Current turn 16
+m4,move
+ok
+simulate next
+Current turn 16
+m4: steer
+ok
+simulate next
+Current turn 17
+m1: steer
+ok
+simulate next
+Current turn 17
+m1,move
+ok
+simulate next
+Current turn 17
+m4,move
+ok
+simulate next
+Current turn 17
+m4: steer
+ok
+simulate next
+Current turn 17
+m4,move
+ok
+simulate next
+Current turn 18
+m1: steer
+ok
+simulate next
+Current turn 18
+m1,move
+ok
+simulate next
+Current turn 18
+m4,cscan
+grass,grass,grass,grass,empty,empty,empty,grass
+ok
+simulate next
+Current turn 18
+m4,move
+ok
+simulate next
+Current turn 18
+m4: steer
+ok
+simulate next
+Current turn 19
+m1: steer
+ok
+simulate next
+Current turn 19
+m1,move
+ok
+simulate next
+Current turn 19
+m4,move
+ok
+simulate next
+Current turn 19
+m4: steer
+ok
+simulate next
+Current turn 19
+m4,move
+ok
+simulate next
+Current turn 20
+g0: move SOUTHWEST,9 + 5->8 + 4
+g0: move SOUTHWEST
+simulate next
+Current turn 20
+g1: move EAST,4 + 3->5 + 3
+g1: move EAST
+simulate next
+Current turn 21
+m1,cscan
+empty,gopher_empty,grass,grass,empty,empty,empty,empty
+ok
+simulate next
+Current turn 21
+m1,move
+ok
+simulate next
+Current turn 21
+m4,cscan
+empty,grass,grass,grass,grass,empty,empty,empty
+ok
+simulate next
+Current turn 21
+m4,move
+ok
+simulate next
+Current turn 21
+m4: steer
+ok
+simulate next
+Current turn 22
+m1: steer
+ok
+simulate next
+Current turn 22
+m1,move
+ok
+simulate next
+Current turn 22
+m4,move
+ok
+simulate next
+Current turn 22
+m4: steer
+ok
+simulate next
+Current turn 22
+m4,move
+ok
+simulate next
+Current turn 23
+m1: steer
+ok
+simulate next
+Current turn 23
+m1,move
+ok
+simulate next
+Current turn 23
+m4: steer
+ok
+simulate next
+Current turn 23
+m4,move
+ok
+simulate next
+Current turn 23
+m4,cscan
+grass,grass,grass,grass,empty,empty,empty,grass
+ok
+simulate next
+Current turn 24
+m1,cscan
+empty,grass,grass,grass,grass,empty,empty,empty
+ok
+simulate next
+Current turn 24
+m1,move
+ok
+simulate next
+Current turn 24
+m4,move
+ok
+simulate next
+Current turn 24
+m4: steer
+ok
+simulate next
+Current turn 24
+m4,move
+ok
+simulate next
+Current turn 25
+g0: move SOUTH,8 + 4->8 + 3
+g0: move SOUTH
+simulate next
+Current turn 25
+g1: move SOUTHEAST,5 + 3->6 + 2
+g1: move SOUTHEAST
+simulate next
+Current turn 26
+m1: steer
+ok
+simulate next
+Current turn 26
+m1,move
+ok
+simulate next
+Current turn 26
+m4: steer
+ok
+simulate next
+Current turn 26
+m4,move
+ok
+simulate next
+Current turn 26
+m4,cscan
+empty,fence,fence,fence,grass,empty,empty,empty
+ok
+simulate next
+Current turn 27
+m1: steer
+ok
+simulate next
+Current turn 27
+m1,move
+ok
+simulate next
+Current turn 27
+m4,move
+ok
+simulate next
+Current turn 27
+m4,cscan
+empty,fence,fence,fence,grass,grass,empty,empty
+ok
+simulate next
+Current turn 27
+m4,move
+ok
+simulate next
+Current turn 28
+m1: steer
+ok
+simulate next
+Current turn 28
+m1,move
+ok
+simulate next
+Current turn 28
+m4: steer
+ok
+simulate next
+Current turn 28
+m4,move
+ok
+simulate next
+Current turn 28
+m4,cscan
+empty,empty,empty,grass,grass,grass,grass,empty
+ok
+simulate next
+Current turn 29
+m1,cscan
+grass,grass,grass,grass,empty,empty,gopher_empty,empty
+ok
+simulate next
+Current turn 29
+m1,move
+ok
+simulate next
+Current turn 29
+m4,move
+ok
+simulate next
+Current turn 29
+m4: steer
+ok
+simulate next
+Current turn 29
+setCurrentState: ACTIVE -> CRASH
+m4,move
+crash
+simulate next
+Current turn 30
+setCurrentState: ACTIVE -> CRASH
+g0: crack m:1
+simulate next
+No active mower
+Game over from single step!!!
+upload file: 
+upload file: 
+upload file: 

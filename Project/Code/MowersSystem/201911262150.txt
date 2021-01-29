@@ -1,0 +1,447 @@
+upload file: 
+upload file: 
+upload file: 
+simulate next
+Current turn 1
+m0: steer
+ok
+simulate next
+Current turn 1
+m1: steer
+ok
+simulate next
+Current turn 1
+m2: steer
+ok
+simulate next
+Current turn 2
+m0,lscan
+fence
+ok
+simulate next
+Current turn 2
+m1,lscan
+grass,grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 2
+m2,lscan
+grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,grass,gopher_grass,fence
+ok
+simulate next
+Current turn 3
+m0: steer
+ok
+simulate next
+Current turn 3
+m1: steer
+ok
+quit simulation request
+Game quit !!!
+simulate next
+Current turn 3
+m2: steer
+ok
+simulate next
+Current turn 4
+m0,lscan
+grass,fence
+ok
+simulate next
+Current turn 4
+setCurrentState: ACTIVE -> CRASH
+m1,lscan
+grass,grass,grass,grass,grass,fence
+ok
+simulate next
+Current turn 4
+m2,lscan
+grass,grass,grass,grass,grass,gopher_grass,grass,fence
+ok
+simulate next
+Current turn 5
+g0: move NORTH,12 + 1->12 + 2
+g0: move NORTH
+simulate next
+Current turn 5
+g1: move SOUTH,0 + 7->0 + 6
+g1: move SOUTH
+simulate next
+Current turn 5
+g2: move SOUTHWEST,6 + 5->5 + 4
+g2: move SOUTHWEST
+simulate next
+Current turn 6
+m0,cscan
+grass,grass,grass,grass,grass,fence,fence,fence
+ok
+simulate next
+Current turn 6
+m2,cscan
+grass,fence,fence,fence,grass,grass,grass,grass
+ok
+simulate next
+Current turn 6
+m2,move
+ok
+simulate next
+Current turn 7
+m0,move
+ok
+simulate next
+Current turn 7
+m2: steer
+ok
+simulate next
+Current turn 7
+m2,move
+ok
+simulate next
+Current turn 8
+m0: steer
+ok
+quit simulation request
+Game quit !!!
+simulate next
+Current turn 8
+m2: steer
+ok
+simulate next
+Current turn 8
+m2,move
+ok
+simulate next
+Current turn 9
+m0,move
+ok
+simulate next
+Current turn 9
+m2: steer
+ok
+simulate next
+Current turn 9
+m2,move
+ok
+quit simulation request
+Game quit !!!
+simulate next
+Current turn 10
+g0: move NORTHWEST,12 + 2->11 + 3
+g0: move NORTHWEST
+simulate next
+Current turn 10
+g1: move SOUTHEAST,0 + 6->1 + 5
+g1: move SOUTHEAST
+simulate next
+Current turn 10
+g2: move SOUTHWEST,5 + 4->4 + 3
+g2: move SOUTHWEST
+simulate next
+Current turn 11
+m0: steer
+ok
+simulate next
+Current turn 11
+m2: steer
+ok
+simulate next
+Current turn 11
+m2,move
+ok
+simulate next
+Current turn 12
+m0,move
+ok
+simulate next
+Current turn 12
+m2,cscan
+fence,fence,fence,fence,empty,empty,empty,fence
+ok
+simulate next
+Current turn 12
+m2: steer
+ok
+simulate next
+Current turn 13
+m0: steer
+ok
+simulate next
+Current turn 13
+m2,move
+ok
+simulate next
+Current turn 13
+m2,cscan
+fence,fence,empty,empty,empty,grass,grass,fence
+ok
+simulate next
+Current turn 14
+m0,move
+ok
+simulate next
+Current turn 14
+m2,move
+ok
+simulate next
+Current turn 14
+m2: steer
+ok
+simulate next
+Current turn 15
+g0: move NORTHWEST,11 + 3->10 + 4
+g0: move NORTHWEST
+simulate next
+Current turn 15
+g1: move SOUTHWEST,1 + 5->0 + 4
+g1: move SOUTHWEST
+simulate next
+Current turn 15
+g2: move SOUTHWEST,4 + 3->3 + 2
+g2: move SOUTHWEST
+simulate next
+Current turn 16
+m0: steer
+ok
+simulate next
+Current turn 16
+m2,move
+ok
+simulate next
+Current turn 16
+m2,cscan
+empty,empty,empty,empty,grass,grass,grass,grass
+ok
+simulate next
+Current turn 17
+m0,move
+ok
+simulate next
+Current turn 17
+m2,move
+ok
+simulate next
+Current turn 17
+m2: steer
+ok
+simulate next
+Current turn 18
+m0,cscan
+grass,grass,grass,grass,empty,empty,empty,grass
+ok
+simulate next
+Current turn 18
+m2,move
+ok
+simulate next
+Current turn 18
+m2: steer
+ok
+simulate next
+Current turn 19
+m0,move
+ok
+simulate next
+Current turn 19
+m2,move
+ok
+simulate next
+Current turn 19
+m2: steer
+ok
+simulate next
+Current turn 20
+g0: move NORTHWEST,10 + 4->9 + 5
+g0: move NORTHWEST
+simulate next
+Current turn 20
+g1: move SOUTHEAST,0 + 4->1 + 3
+g1: move SOUTHEAST
+simulate next
+Current turn 20
+setCurrentState: ACTIVE -> CRASH
+g2: crack m:0
+simulate next
+Current turn 21
+m2,move
+ok
+simulate next
+Current turn 21
+m2,cscan
+fence,fence,empty,empty,empty,grass,grass,fence
+ok
+simulate next
+Current turn 21
+m2: steer
+ok
+simulate next
+Current turn 22
+m2,move
+ok
+simulate next
+Current turn 22
+m2: steer
+ok
+simulate next
+Current turn 22
+m2,move
+ok
+simulate next
+Current turn 23
+m2,cscan
+empty,empty,empty,empty,grass,grass,grass,grass
+ok
+simulate next
+Current turn 23
+m2,move
+ok
+simulate next
+Current turn 23
+m2: steer
+ok
+simulate next
+Current turn 24
+m2,move
+ok
+simulate next
+Current turn 24
+m2: steer
+ok
+simulate next
+Current turn 24
+m2,move
+ok
+simulate next
+Current turn 25
+g0: move NORTHWEST,9 + 5->8 + 6
+g0: move NORTHWEST
+simulate next
+Current turn 25
+g1: move NORTHEAST,1 + 3->2 + 4
+g1: move NORTHEAST
+simulate next
+Current turn 25
+g2: move NORTHEAST,2 + 2->3 + 3
+g2: move NORTHEAST
+simulate next
+Current turn 26
+m2: steer
+ok
+simulate next
+Current turn 26
+m2,move
+ok
+simulate next
+Current turn 26
+m2,cscan
+fence,fence,empty,empty,empty,grass,grass,fence
+ok
+simulate next
+Current turn 27
+m2: steer
+ok
+simulate next
+Current turn 27
+m2,move
+ok
+simulate next
+Current turn 27
+m2: steer
+ok
+simulate next
+Current turn 28
+m2,move
+ok
+simulate next
+Current turn 28
+m2,cscan
+empty,empty,empty,empty,grass,grass,grass,grass
+ok
+simulate next
+Current turn 28
+m2,move
+ok
+simulate next
+Current turn 29
+m2: steer
+ok
+simulate next
+Current turn 29
+m2,move
+ok
+simulate next
+Current turn 29
+m2: steer
+ok
+simulate next
+Current turn 30
+g0: move WEST,8 + 6->7 + 6
+g0: move WEST
+simulate next
+Current turn 30
+g1: move NORTHEAST,2 + 4->3 + 5
+g1: move NORTHEAST
+simulate next
+Current turn 30
+g2: move NORTHEAST,3 + 3->4 + 4
+g2: move NORTHEAST
+simulate next
+Current turn 31
+m2,move
+ok
+simulate next
+Current turn 31
+m2: steer
+ok
+simulate next
+Current turn 31
+m2,move
+ok
+simulate next
+Current turn 32
+m2,cscan
+fence,fence,empty,empty,empty,grass,grass,fence
+ok
+simulate next
+Current turn 32
+m2: steer
+ok
+simulate next
+Current turn 32
+m2,move
+ok
+simulate next
+Current turn 33
+m2: steer
+ok
+simulate next
+Current turn 33
+m2,move
+ok
+simulate next
+Current turn 33
+m2,cscan
+empty,empty,empty,empty,grass,grass,grass,grass
+ok
+simulate next
+Current turn 34
+m2,move
+ok
+simulate next
+Current turn 34
+m2: steer
+ok
+simulate next
+Current turn 34
+m2,move
+ok
+simulate next
+Current turn 35
+g0: move WEST,7 + 6->6 + 6
+g0: move WEST
+simulate next
+Current turn 35
+setCurrentState: ACTIVE -> CRASH
+g1: crack m:2
+simulate next
+No active mower
+Game over from single step!!!

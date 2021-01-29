@@ -1,0 +1,12 @@
+.overflow-scrolling {
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+    width: 325px;
+    height: 400px;
+}
+
+.wrapText {
+    word-wrap:break-word;
+    word-break:break-all;
+    overflow: hidden;
+}
